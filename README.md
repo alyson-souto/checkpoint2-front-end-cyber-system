@@ -68,7 +68,7 @@ Footer personalizado contendo redes sociais e identidade visual do projeto.
 ## 🌐 Deploy
 
 GitHub Pages:
-https://alyson-021.github.io/checkpoint2-front-end-cyber-system/
+https://alyson-souto.github.io/checkpoint2-front-end-cyber-system/
 
 ---
 
